@@ -1,0 +1,455 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Resources"
+    url: /references/
+  - title: "Textbook"
+    url: /textbook/Chapter_01/00_Fundamentals
+
+
+# --- Textbook sidebar --- PROGRAMATICALLY GENERATED
+sidebar-textbook:
+  - title: 1. Chapter 01
+    class: level_0
+    children:
+    - title: Fundamentals
+      class: level_1
+      url: /textbook/Chapter_01/00_Fundamentals
+    - title: Outcome Space And Events
+      class: level_1
+      url: /textbook/Chapter_01/01_Outcome_Space_and_Events
+    - title: Equally Likely Outcomes
+      class: level_1
+      url: /textbook/Chapter_01/02_Equally_Likely_Outcomes
+    - title: Collisions In Hashing
+      class: level_1
+      url: /textbook/Chapter_01/03_Collisions_in_Hashing
+    - title: Birthday Problem
+      class: level_1
+      url: /textbook/Chapter_01/04_Birthday_Problem
+    - title: An Exponential Approximation
+      class: level_1
+      url: /textbook/Chapter_01/05_An_Exponential_Approximation
+  - title: 2. Chapter 02
+    class: level_0
+    children:
+    - title: Calculating Chances
+      class: level_1
+      url: /textbook/Chapter_02/00_Calculating_Chances
+    - title: Addition
+      class: level_1
+      url: /textbook/Chapter_02/01_Addition
+    - title: Examples
+      class: level_1
+      url: /textbook/Chapter_02/02_Examples
+    - title: Multiplication
+      class: level_1
+      url: /textbook/Chapter_02/03_Multiplication
+    - title: More Examples
+      class: level_1
+      url: /textbook/Chapter_02/04_More_Examples
+    - title: Updating Probabilities
+      class: level_1
+      url: /textbook/Chapter_02/05_Updating_Probabilities
+  - title: 3. Chapter 03
+    class: level_0
+    children:
+    - title: Random Variables
+      class: level_1
+      url: /textbook/Chapter_03/00_Random_Variables
+    - title: Functions On An Outcome Space
+      class: level_1
+      url: /textbook/Chapter_03/01_Functions_on_an_Outcome_Space
+    - title: Distributions
+      class: level_1
+      url: /textbook/Chapter_03/02_Distributions
+    - title: Equality
+      class: level_1
+      url: /textbook/Chapter_03/03_Equality
+  - title: 4. Chapter 04
+    class: level_0
+    children:
+    - title: Relations Between Variables
+      class: level_1
+      url: /textbook/Chapter_04/00_Relations_Between_Variables
+    - title: Joint Distributions
+      class: level_1
+      url: /textbook/Chapter_04/01_Joint_Distributions
+    - title: Marginal Distributions
+      class: level_1
+      url: /textbook/Chapter_04/02_Marginal_Distributions
+    - title: Conditional Distributions
+      class: level_1
+      url: /textbook/Chapter_04/03_Conditional_Distributions
+    - title: Updating Distributions
+      class: level_1
+      url: /textbook/Chapter_04/04_Updating_Distributions
+    - title: Dependence And Independence
+      class: level_1
+      url: /textbook/Chapter_04/05_Dependence_and_Independence
+  - title: 5. Chapter 05
+    class: level_0
+    children:
+    - title: Collections Of Events
+      class: level_1
+      url: /textbook/Chapter_05/00_Collections_of_Events
+    - title: Bounding The Chance Of A Union
+      class: level_1
+      url: /textbook/Chapter_05/01_Bounding_the_Chance_of_a_Union
+    - title: Inclusion Exclusion
+      class: level_1
+      url: /textbook/Chapter_05/02_Inclusion_Exclusion
+    - title: The Matching Problem
+      class: level_1
+      url: /textbook/Chapter_05/03_The_Matching_Problem
+    - title: Sampling Without Replacement
+      class: level_1
+      url: /textbook/Chapter_05/04_Sampling_Without_Replacement
+  - title: 6. Chapter 06
+    class: level_0
+    children:
+    - title: Random Counts
+      class: level_1
+      url: /textbook/Chapter_06/00_Random_Counts
+    - title: Binomial Distribution
+      class: level_1
+      url: /textbook/Chapter_06/01_Binomial_Distribution
+    - title: Examples
+      class: level_1
+      url: /textbook/Chapter_06/02_Examples
+    - title: Hypergeometric Distribution
+      class: level_1
+      url: /textbook/Chapter_06/03_Hypergeometric_Distribution
+    - title: Odds Ratios
+      class: level_1
+      url: /textbook/Chapter_06/04_Odds_Ratios
+    - title: Law Of Small Numbers
+      class: level_1
+      url: /textbook/Chapter_06/05_Law_of_Small_Numbers
+  - title: 7. Chapter 07
+    class: level_0
+    children:
+    - title: Poissonization
+      class: level_1
+      url: /textbook/Chapter_07/00_Poissonization
+    - title: Poissonizing The Binomial
+      class: level_1
+      url: /textbook/Chapter_07/01_Poissonizing_the_Binomial
+    - title: Poissonizing The Multinomial
+      class: level_1
+      url: /textbook/Chapter_07/02_Poissonizing_the_Multinomial
+  - title: 8. Chapter 08
+    class: level_0
+    children:
+    - title: Expectation
+      class: level_1
+      url: /textbook/Chapter_08/00_Expectation
+    - title: Definition
+      class: level_1
+      url: /textbook/Chapter_08/01_Definition
+    - title: Additivity
+      class: level_1
+      url: /textbook/Chapter_08/02_Additivity
+    - title: Expectations Of Functions
+      class: level_1
+      url: /textbook/Chapter_08/03_Expectations_of_Functions
+  - title: 9. Chapter 09
+    class: level_0
+    children:
+    - title: Conditioning Revisited
+      class: level_1
+      url: /textbook/Chapter_09/00_Conditioning_Revisited
+    - title: Probability By Conditioning
+      class: level_1
+      url: /textbook/Chapter_09/01_Probability_by_Conditioning
+    - title: Expectation By Conditioning
+      class: level_1
+      url: /textbook/Chapter_09/02_Expectation_by_Conditioning
+    - title: Expected Waiting Times
+      class: level_1
+      url: /textbook/Chapter_09/03_Expected_Waiting_Times
+  - title: 10. Chapter 10
+    class: level_0
+    children:
+    - title: Markov Chains
+      class: level_1
+      url: /textbook/Chapter_10/00_Markov_Chains
+    - title: Transitions
+      class: level_1
+      url: /textbook/Chapter_10/01_Transitions
+    - title: Deconstructing Chains
+      class: level_1
+      url: /textbook/Chapter_10/02_Deconstructing_Chains
+    - title: Long Run Behavior
+      class: level_1
+      url: /textbook/Chapter_10/03_Long_Run_Behavior
+    - title: Examples
+      class: level_1
+      url: /textbook/Chapter_10/04_Examples
+  - title: 11. Chapter 11
+    class: level_0
+    children:
+    - title: Reversing Markov Chains
+      class: level_1
+      url: /textbook/Chapter_11/00_Reversing_Markov_Chains
+    - title: Detailed Balance
+      class: level_1
+      url: /textbook/Chapter_11/01_Detailed_Balance
+    - title: Reversibility
+      class: level_1
+      url: /textbook/Chapter_11/02_Reversibility
+    - title: Code Breaking
+      class: level_1
+      url: /textbook/Chapter_11/03_Code_Breaking
+    - title: Markov Chain Monte Carlo
+      class: level_1
+      url: /textbook/Chapter_11/04_Markov_Chain_Monte_Carlo
+  - title: 12. Chapter 12
+    class: level_0
+    children:
+    - title: Standard Deviation
+      class: level_1
+      url: /textbook/Chapter_12/00_Standard_Deviation
+    - title: Definition
+      class: level_1
+      url: /textbook/Chapter_12/01_Definition
+    - title: Prediction And Estimation
+      class: level_1
+      url: /textbook/Chapter_12/02_Prediction_and_Estimation
+    - title: Bounds
+      class: level_1
+      url: /textbook/Chapter_12/03_Bounds
+    - title: Heavy Tails
+      class: level_1
+      url: /textbook/Chapter_12/04_Heavy_Tails
+  - title: 13. Chapter 13
+    class: level_0
+    children:
+    - title: Variance Via Covariance
+      class: level_1
+      url: /textbook/Chapter_13/00_Variance_Via_Covariance
+    - title: Properties Of Covariance
+      class: level_1
+      url: /textbook/Chapter_13/01_Properties_of_Covariance
+    - title: Sums Of Iid Samples
+      class: level_1
+      url: /textbook/Chapter_13/02_Sums_of_IID_Samples
+    - title: Sums Of Simple Random Samples
+      class: level_1
+      url: /textbook/Chapter_13/03_Sums_of_Simple_Random_Samples
+    - title: Finite Population Correction
+      class: level_1
+      url: /textbook/Chapter_13/04_Finite_Population_Correction
+  - title: 14. Chapter 14
+    class: level_0
+    children:
+    - title: The Central Limit Theorem
+      class: level_1
+      url: /textbook/Chapter_14/00_The_Central_Limit_Theorem
+    - title: Exact Distribution
+      class: level_1
+      url: /textbook/Chapter_14/01_Exact_Distribution
+    - title: Pgfs In Numpy
+      class: level_1
+      url: /textbook/Chapter_14/02_PGFs_in_NumPy
+    - title: Central Limit Theorem
+      class: level_1
+      url: /textbook/Chapter_14/03_Central_Limit_Theorem
+    - title: The Sample Mean
+      class: level_1
+      url: /textbook/Chapter_14/04_The_Sample_Mean
+    - title: Confidence Intervals
+      class: level_1
+      url: /textbook/Chapter_14/05_Confidence_Intervals
+  - title: 15. Chapter 15
+    class: level_0
+    children:
+    - title: Continuous Distributions
+      class: level_1
+      url: /textbook/Chapter_15/00_Continuous_Distributions
+    - title: Density And Cdf
+      class: level_1
+      url: /textbook/Chapter_15/01_Density_and_CDF
+    - title: The Meaning Of Density
+      class: level_1
+      url: /textbook/Chapter_15/02_The_Meaning_of_Density
+    - title: Expectation
+      class: level_1
+      url: /textbook/Chapter_15/03_Expectation
+    - title: Exponential Distribution
+      class: level_1
+      url: /textbook/Chapter_15/04_Exponential_Distribution
+    - title: Calculus In Sympy
+      class: level_1
+      url: /textbook/Chapter_15/05_Calculus_in_SymPy
+  - title: 16. Chapter 16
+    class: level_0
+    children:
+    - title: Transformations
+      class: level_1
+      url: /textbook/Chapter_16/00_Transformations
+    - title: Linear Transformations
+      class: level_1
+      url: /textbook/Chapter_16/01_Linear_Transformations
+    - title: Monotone Functions
+      class: level_1
+      url: /textbook/Chapter_16/02_Monotone_Functions
+    - title: Two To One Functions
+      class: level_1
+      url: /textbook/Chapter_16/03_Two_to_One_Functions
+  - title: 17. Chapter 17
+    class: level_0
+    children:
+    - title: Joint Densities
+      class: level_1
+      url: /textbook/Chapter_17/00_Joint_Densities
+    - title: Probabilities And Expectations
+      class: level_1
+      url: /textbook/Chapter_17/01_Probabilities_and_Expectations
+    - title: Independence
+      class: level_1
+      url: /textbook/Chapter_17/02_Independence
+    - title: Marginal And Conditional Densities
+      class: level_1
+      url: /textbook/Chapter_17/03_Marginal_and_Conditional_Densities
+    - title: Beta Densities With Integer Parameters
+      class: level_1
+      url: /textbook/Chapter_17/04_Beta_Densities_with_Integer_Parameters
+  - title: 18. Chapter 18
+    class: level_0
+    children:
+    - title: The Normal And Gamma Families
+      class: level_1
+      url: /textbook/Chapter_18/00_The_Normal_and_Gamma_Families
+    - title: Standard Normal Basics
+      class: level_1
+      url: /textbook/Chapter_18/01_Standard_Normal_Basics
+    - title: Sums Of Independent Normal Variables
+      class: level_1
+      url: /textbook/Chapter_18/02_Sums_of_Independent_Normal_Variables
+    - title: The Gamma Family
+      class: level_1
+      url: /textbook/Chapter_18/03_The_Gamma_Family
+    - title: Chi Squared Distributions
+      class: level_1
+      url: /textbook/Chapter_18/04_Chi_Squared_Distributions
+  - title: 19. Chapter 19
+    class: level_0
+    children:
+    - title: Distributions Of Sums
+      class: level_1
+      url: /textbook/Chapter_19/00_Distributions_of_Sums
+    - title: Convolution Formula
+      class: level_1
+      url: /textbook/Chapter_19/01_Convolution_Formula
+    - title: Moment Generating Functions
+      class: level_1
+      url: /textbook/Chapter_19/02_Moment_Generating_Functions
+    - title: Mgfs Normal And The Clt
+      class: level_1
+      url: /textbook/Chapter_19/03_MGFs_Normal_and_the_CLT
+    - title: Chernoff Bound
+      class: level_1
+      url: /textbook/Chapter_19/04_Chernoff_Bound
+  - title: 20. Chapter 20
+    class: level_0
+    children:
+    - title: Approaches To Estimation
+      class: level_1
+      url: /textbook/Chapter_20/00_Approaches_to_Estimation
+    - title: Maximum Likelihood
+      class: level_1
+      url: /textbook/Chapter_20/01_Maximum_Likelihood
+    - title: Prior And Posterior
+      class: level_1
+      url: /textbook/Chapter_20/02_Prior_and_Posterior
+    - title: Independence Revisited
+      class: level_1
+      url: /textbook/Chapter_20/03_Independence_Revisited
+  - title: 21. Chapter 21
+    class: level_0
+    children:
+    - title: The Beta And The Binomial
+      class: level_1
+      url: /textbook/Chapter_21/00_The_Beta_and_the_Binomial
+    - title: Updating And Prediction
+      class: level_1
+      url: /textbook/Chapter_21/01_Updating_and_Prediction
+    - title: Beta Binomial Distribution
+      class: level_1
+      url: /textbook/Chapter_21/02_Beta_Binomial_Distribution
+    - title: Long Run Proportion Of Heads
+      class: level_1
+      url: /textbook/Chapter_21/03_Long_Run_Proportion_of_Heads
+  - title: 22. Chapter 22
+    class: level_0
+    children:
+    - title: Prediction
+      class: level_1
+      url: /textbook/Chapter_22/00_Prediction
+    - title: Conditional Expectation Projection
+      class: level_1
+      url: /textbook/Chapter_22/01_Conditional_Expectation_Projection
+    - title: Variance By Conditioning
+      class: level_1
+      url: /textbook/Chapter_22/02_Variance_by_Conditioning
+    - title: Examples
+      class: level_1
+      url: /textbook/Chapter_22/03_Examples
+    - title: Least Squares Predictor
+      class: level_1
+      url: /textbook/Chapter_22/04_Least_Squares_Predictor
+  - title: 23. Chapter 23
+    class: level_0
+    children:
+    - title: Multivariate Normal Rvs
+      class: level_1
+      url: /textbook/Chapter_23/00_Multivariate_Normal_RVs
+    - title: Random Vectors
+      class: level_1
+      url: /textbook/Chapter_23/01_Random_Vectors
+    - title: Multivariate Normal Distribution
+      class: level_1
+      url: /textbook/Chapter_23/02_Multivariate_Normal_Distribution
+    - title: Linear Combinations
+      class: level_1
+      url: /textbook/Chapter_23/03_Linear_Combinations
+    - title: Independence
+      class: level_1
+      url: /textbook/Chapter_23/04_Independence
+  - title: 24. Chapter 24
+    class: level_0
+    children:
+    - title: Simple Linear Regression
+      class: level_1
+      url: /textbook/Chapter_24/00_Simple_Linear_Regression
+    - title: Bivariate Normal Distribution
+      class: level_1
+      url: /textbook/Chapter_24/01_Bivariate_Normal_Distribution
+    - title: Linear Least Squares
+      class: level_1
+      url: /textbook/Chapter_24/02_Linear_Least_Squares
+    - title: Regression And Bivariate Normal
+      class: level_1
+      url: /textbook/Chapter_24/03_Regression_and_Bivariate_Normal
+    - title: Regression Equation
+      class: level_1
+      url: /textbook/Chapter_24/04_Regression_Equation
+  - title: 25. Chapter 25
+    class: level_0
+    children:
+    - title: Multiple Regression
+      class: level_1
+      url: /textbook/Chapter_25/00_Multiple_Regression
+    - title: Bilinearity In Matrix Notation
+      class: level_1
+      url: /textbook/Chapter_25/01_Bilinearity_in_Matrix_Notation
+    - title: Best Linear Predictor
+      class: level_1
+      url: /textbook/Chapter_25/02_Best_Linear_Predictor
+    - title: Multivariate Normal Regression
+      class: level_1
+      url: /textbook/Chapter_25/03_Multivariate_Normal_Regression
