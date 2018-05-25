@@ -1,0 +1,220 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Resources"
+    url: /references/
+  - title: "Textbook"
+    url: /textbook/Chapter_01/00_Fundamentals
+
+
+# --- Textbook sidebar --- PROGRAMATICALLY GENERATED
+sidebar-textbook:
+  - title: Chapter 01
+    children:
+    - title: Fundamentals
+      url: textbook/Chapter_01/00_Fundamentals
+      class: level_1
+    - title: Outcome Space and Events
+      url: textbook/Chapter_01/01_Outcome_Space_and_Events
+      class: level_1
+    - title: Equally Likely Outcomes
+      url: textbook/Chapter_01/02_Equally_Likely_Outcomes
+      class: level_1
+    - title: Collisions in Hashing
+      url: textbook/Chapter_01/03_Collisions_in_Hashing
+      class: level_1
+    - title: Birthday Problem
+      url: textbook/Chapter_01/04_Birthday_Problem
+      class: level_1
+    - title: An Exponential Approximation
+      url: textbook/Chapter_01/05_An_Exponential_Approximation
+      class: level_1
+  - title: Chapter 02
+    children:
+    - title: Calculating Chances
+      url: textbook/Chapter_02/00_Calculating_Chances
+      class: level_1
+    - title: Addition
+      url: textbook/Chapter_02/01_Addition
+      class: level_1
+    - title: Examples
+      url: textbook/Chapter_02/02_Examples
+      class: level_1
+    - title: Multiplication
+      url: textbook/Chapter_02/03_Multiplication
+      class: level_1
+    - title: More Examples
+      url: textbook/Chapter_02/04_More_Examples
+      class: level_1
+    - title: Updating Probabilities
+      url: textbook/Chapter_02/05_Updating_Probabilities
+      class: level_1
+  - title: Chapter 03
+    children:
+    - title: Random Variables
+      url: textbook/Chapter_03/00_Random_Variables
+      class: level_1
+    - title: Functions on an Outcome Space
+      url: textbook/Chapter_03/01_Functions_on_an_Outcome_Space
+      class: level_1
+    - title: Distributions
+      url: textbook/Chapter_03/02_Distributions
+      class: level_1
+    - title: Equality
+      url: textbook/Chapter_03/03_Equality
+      class: level_1
+  - title: Chapter 04
+    children:
+    - title: Relations Between Variables
+      url: textbook/Chapter_04/00_Relations_Between_Variables
+      class: level_1
+    - title: Joint Distributions
+      url: textbook/Chapter_04/01_Joint_Distributions
+      class: level_1
+    - title: Marginal Distributions
+      url: textbook/Chapter_04/02_Marginal_Distributions
+      class: level_1
+    - title: Conditional Distributions
+      url: textbook/Chapter_04/03_Conditional_Distributions
+      class: level_1
+    - title: Updating Distributions
+      url: textbook/Chapter_04/04_Updating_Distributions
+      class: level_1
+    - title: Dependence and Independence
+      url: textbook/Chapter_04/05_Dependence_and_Independence
+      class: level_1
+  - title: Chapter 05
+    children:
+    - title: Collections of Events
+      url: textbook/Chapter_05/00_Collections_of_Events
+      class: level_1
+    - title: Bounding the Chance of a Union
+      url: textbook/Chapter_05/01_Bounding_the_Chance_of_a_Union
+      class: level_1
+    - title: Inclusion Exclusion
+      url: textbook/Chapter_05/02_Inclusion_Exclusion
+      class: level_1
+    - title: The Matching Problem
+      url: textbook/Chapter_05/03_The_Matching_Problem
+      class: level_1
+    - title: Sampling Without Replacement
+      url: textbook/Chapter_05/04_Sampling_Without_Replacement
+      class: level_1
+  - title: Chapter 06
+    children:
+    - title: Hypergeometric Distribution
+      url: textbook/Chapter_06/03_Hypergeometric_Distribution
+      class: level_1
+    - title: Odds Ratios
+      url: textbook/Chapter_06/04_Odds_Ratios
+      class: level_1
+    - title: Law of Small Numbers
+      url: textbook/Chapter_06/05_Law_of_Small_Numbers
+      class: level_1
+    - title: Random Counts
+      url: textbook/Chapter_06/test/00_Random_Counts
+      class: level_2
+    - title: Binomial Distribution
+      url: textbook/Chapter_06/test/01_Binomial_Distribution
+      class: level_2
+    - title: Examples
+      url: textbook/Chapter_06/test/02_Examples
+      class: level_2
+  - title: Chapter 07
+    children:
+    - title: Poissonization
+      url: textbook/Chapter_07/00_Poissonization
+      class: level_1
+    - title: Poissonizing the Binomial
+      url: textbook/Chapter_07/01_Poissonizing_the_Binomial
+      class: level_1
+    - title: Poissonizing the Multinomial
+      url: textbook/Chapter_07/02_Poissonizing_the_Multinomial
+      class: level_1
+  - title: Chapter 08
+    children:
+    - title: Expectation
+      url: textbook/Chapter_08/00_Expectation
+      class: level_1
+    - title: Definition
+      url: textbook/Chapter_08/01_Definition
+      class: level_1
+    - title: Additivity
+      url: textbook/Chapter_08/02_Additivity
+      class: level_1
+    - title: Expectations of Functions
+      url: textbook/Chapter_08/03_Expectations_of_Functions
+      class: level_1
+  - title: Chapter 09
+    children:
+    - title: Conditioning Revisited
+      url: textbook/Chapter_09/00_Conditioning_Revisited
+      class: level_1
+    - title: Probability by Conditioning
+      url: textbook/Chapter_09/01_Probability_by_Conditioning
+      class: level_1
+    - title: Expectation by Conditioning
+      url: textbook/Chapter_09/02_Expectation_by_Conditioning
+      class: level_1
+    - title: Expected Waiting Times
+      url: textbook/Chapter_09/03_Expected_Waiting_Times
+      class: level_1
+  - title: Chapter 10
+    children:
+    - title: Markov Chains
+      url: textbook/Chapter_10/00_Markov_Chains
+      class: level_1
+    - title: Transitions
+      url: textbook/Chapter_10/01_Transitions
+      class: level_1
+    - title: Deconstructing Chains
+      url: textbook/Chapter_10/02_Deconstructing_Chains
+      class: level_1
+    - title: Long Run Behavior
+      url: textbook/Chapter_10/03_Long_Run_Behavior
+      class: level_1
+    - title: Examples
+      url: textbook/Chapter_10/04_Examples
+      class: level_1
+  - title: Chapter 11
+    children:
+    - title: Reversing Markov Chains
+      url: textbook/Chapter_11/00_Reversing_Markov_Chains
+      class: level_1
+    - title: Detailed Balance
+      url: textbook/Chapter_11/01_Detailed_Balance
+      class: level_1
+    - title: Reversibility
+      url: textbook/Chapter_11/02_Reversibility
+      class: level_1
+    - title: Code Breaking
+      url: textbook/Chapter_11/03_Code_Breaking
+      class: level_1
+    - title: Markov Chain Monte Carlo
+      url: textbook/Chapter_11/04_Markov_Chain_Monte_Carlo
+      class: level_1
+  - title: Chapter 12
+    children:
+    - title: Standard Deviation
+      url: textbook/Chapter_12/00_Standard_Deviation
+      class: level_1
+    - title: Definition
+      url: textbook/Chapter_12/01_Definition
+      class: level_1
+    - title: Prediction and Estimation
+      url: textbook/Chapter_12/02_Prediction_and_Estimation
+      class: level_1
+    - title: Bounds
+      url: textbook/Chapter_12/03_Bounds
+      class: level_1
+    - title: Heavy Tails
+      url: textbook/Chapter_12/04_Heavy_Tails
+      class: level_1
+  - title: Chapter 13
+    children:
+    - title: Variance Via Covariance
+      url: textbook/Chapter_13/00_Variance_Via_Covariance
+      class: level_1
