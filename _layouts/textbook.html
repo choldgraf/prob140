@@ -23,6 +23,7 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
     <!-- INTERACT LINKS -->
     {% if page.interact_link %}<a class="interact-button" href="{{ site.hub_url }}/hub/user-redirect/git-pull?repo={{ site.textbook_url }}&amp;branch={{ site.textbook_branch }}&amp;subPath={{ page.interact_link }}">Interact</a>{% endif %}
+
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
