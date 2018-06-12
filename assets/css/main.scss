@@ -6,14 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-/* Interact button */
-
-div.highlight {
-  padding: 2px 0px 2px 10px;
-  font-size: .8em;
-}
-
-article.page {
-  padding-right: 10% !important;
-}

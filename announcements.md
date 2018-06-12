@@ -1,5 +1,5 @@
 ---
 author_profile: false
 layout: posts-simple
-permalink: /
+permalink: /announcements
 ---

@@ -10,4 +10,5 @@ article.page {
 
 div.sidebar {
   width: 25%;
+  height: calc( 100vh - 2em ) !important;
 }

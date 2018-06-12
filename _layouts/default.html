@@ -53,8 +53,9 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include browser-upgrade.html %}
-    <!-- TODO Let people turn off navbar for textbook if wanted -->
+    {% if site.masthead == true %}
     {% include masthead.html %}
+    {% endif %}
 
     <div class="initial-content">
       {{ content }}
